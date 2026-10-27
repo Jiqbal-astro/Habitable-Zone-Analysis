@@ -1,0 +1,15 @@
+planet,star,semi_major_axis_au,reference
+Venus,Sun,0.723,
+Earth,Sun,1.000,
+Mars,Sun,1.524,
+Proxima Cen b,Proxima Centauri,0.0485,Anglada-Escudé et al. 2016
+TRAPPIST-1 d,TRAPPIST-1,0.02227,Agol et al. 2021
+TRAPPIST-1 e,TRAPPIST-1,0.02925,Agol et al. 2021
+TRAPPIST-1 f,TRAPPIST-1,0.03849,Agol et al. 2021
+TRAPPIST-1 g,TRAPPIST-1,0.04683,Agol et al. 2021
+Kepler-442 b,Kepler-442,0.409,Torres et al. 2015
+GJ 667C c,GJ 667C,0.125,Anglada-Escudé et al. 2013
+TOI-700 e,TOI-700,0.134,Gilbert et al. 2023
+TOI-700 d,TOI-700,0.163,Gilbert et al. 2020
+Teegarden's Star b,Teegarden's Star,0.0252,Zechmeister et al. 2019
+Teegarden's Star c,Teegarden's Star,0.0443,Zechmeister et al. 2019
